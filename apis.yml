@@ -1,7 +1,11 @@
 aid: asbury-automotive
-url: https://raw.githubusercontent.com/api-evangelist/asbury-automotive/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/asbury-automotive/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.asbury-automotive.com
+description: >-
+  Asbury Automotive Group is one of the largest automotive retailers in the United
+  States, operating new and used vehicle dealerships across multiple states and brands.
