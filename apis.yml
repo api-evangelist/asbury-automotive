@@ -41,6 +41,8 @@ apis:
       - type: Documentation
         url: https://www.clicklane.com/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/asbury-automotive-group
   - type: Portal
     url: https://www.asburyauto.com/
     title: Asbury Automotive Group Website
