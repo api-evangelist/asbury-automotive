@@ -1,0 +1,27 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: www.asburyauto.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Sep 29 06:29:13 2026 GMT
+  hsts: null
+- host: www.clicklane.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Oct  2 06:47:11 2026 GMT
+  hsts: null
+domains:
+- domain: asburyauto.com
+  dnssec: false
+  caa: []
+  spf: true
+  dmarc: true
+  dmarc_policy: quarantine
+- domain: clicklane.com
+  dnssec: false
+  caa: []
+  spf: true
+  dmarc: true
+  dmarc_policy: quarantine

@@ -42,6 +42,8 @@ apis:
       - type: Documentation
         url: https://www.clicklane.com/
 common:
+  - type: DomainSecurity
+    url: security/asbury-automotive-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/asbury-automotive-group
   - type: Portal
