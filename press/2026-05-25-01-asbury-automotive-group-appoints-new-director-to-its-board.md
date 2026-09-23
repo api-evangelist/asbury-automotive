@@ -1,7 +1,9 @@
 ---
 title: Asbury Automotive Group Appoints New Director to Its Board
 url: https://investors.asburyauto.com/press-releases/19431
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Asbury Automotive Group" press release artificial intelligence'
 position: 1
 source: serpapi-google
