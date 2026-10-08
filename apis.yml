@@ -71,6 +71,12 @@ apis:
       - type: Documentation
         url: https://www.clicklane.com/
 common:
+  - type: Plans
+    url: plans/asbury-automotive-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/asbury-automotive-rate-limits.yml
+  - type: FinOps
+    url: finops/asbury-automotive-finops.yml
   - type: DomainSecurity
     url: security/asbury-automotive-domain-security.yml
   - type: LinkedIn
