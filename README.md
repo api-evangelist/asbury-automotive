@@ -1,4 +1,4 @@
-# Asbury Automotive Group (asbury-automotive)
+# Asbury Automotive Group
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,63 +66,58 @@
 
 Asbury Automotive Group is one of the largest automotive retailers in the United States, operating new and used vehicle dealerships across multiple states and brands. Headquartered in Duluth, Georgia, Asbury operates approximately 200 dealerships representing 30+ automotive brands including luxury and non-luxury vehicles. The company operates under multiple brand names including Coggin Automotive Group, Crown Automotive Group, Park Place Dealerships, Nalley Automotive Group, and others. Asbury does not expose a public developer API but operates digital retail platforms including Clicklane, their proprietary online vehicle purchase platform.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/asbury-automotive/refs/heads/main/apis.yml)
+**Areas:** Automotive · Dealership · Retail · Vehicles · Fortune 500
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## Asbury Automotive Group on APIs.io
 
-## Tags:
+Everything profiled for Asbury Automotive Group is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/asbury-automotive/](https://apis.io/providers/asbury-automotive/)** — or go straight to one of the APIs or properties below.
 
- - Automotive, Dealerships, Retail, Vehicles
+### APIs (1)
 
-## Timestamps
+- [Asbury Automotive Clicklane Platform](https://apis.io/apis/asbury-automotive/clicklane-platform/) — Clicklane is Asbury Automotive's proprietary online vehicle purchase platform that enables customers to complete the full car buying process digitally,…
 
-- **Created:** 2024-12-03
-- **Modified:** 2026-04-19
+### Published properties
 
-## APIs
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-### Asbury Automotive Clicklane Platform
-Clicklane is Asbury Automotive's proprietary online vehicle purchase platform that enables customers to complete the full car buying process digitally, including vehicle selection, financing, trade-in valuation, F&I products, and final purchase without visiting a dealership.
+#### Security (1)
 
-**Human URL:** [https://www.clicklane.com/](https://www.clicklane.com/)
+Authentication, trust centre, and vulnerability disclosure.
 
-#### Tags:
+- [Asbury Automotive Domain Security](https://apis.io/security/asbury-automotive/asbury-automotive-domain-security/)
 
- - Automotive, Digital Retail, Vehicle Purchase, E-Commerce
+#### Plans and pricing (1)
 
-#### Properties
+Published plans, tiers and prices.
 
-- [Documentation](https://www.clicklane.com/)
+- [Asbury Automotive Plans Pricing](https://apis.io/plans/asbury-automotive/asbury-automotive-plans-pricing/)
 
-## Common Properties
+#### Rate limits (1)
 
-- [Asbury Automotive Group Website](https://www.asburyauto.com/)
+Published request limits.
 
-## Features
+- [Asbury Automotive Rate Limits](https://apis.io/rate-limits/asbury-automotive/asbury-automotive-rate-limits/)
 
-| Name | Description |
-|------|-------------|
-| Clicklane Digital Retail | Proprietary online vehicle purchase platform allowing customers to complete the entire car buying process digitally including financing, trade-ins, and F&I products. |
-| Multi-Brand Dealership Network | Operates approximately 200 dealerships across 30+ automotive brands including luxury brands (Lexus, Mercedes, BMW, Audi) and non-luxury (Toyota, Honda, Ford, Chevrolet). |
-| Digital Service Scheduling | Online service appointment scheduling across all Asbury dealership brands through brand-specific and aggregated scheduling tools. |
+#### FinOps (1)
 
-## Use Cases
+What the API costs to run, by operation.
 
-| Name | Description |
-|------|-------------|
-| Digital Vehicle Purchase | Customers use Clicklane to research, finance, and purchase vehicles entirely online without visiting a dealership. |
-| Trade-In Valuation | Vehicle owners use Asbury's digital tools to obtain trade-in valuations for their current vehicles as part of new vehicle purchase. |
-| Service and Parts | Vehicle owners schedule service appointments and order parts through Asbury's dealership service departments. |
+- [Asbury Automotive Finops](https://apis.io/finops/asbury-automotive/asbury-automotive-finops/)
 
-## Integrations
+## API Evangelist rating
 
-| Name | Description |
-|------|-------------|
-| OEM Dealer Management Systems | Asbury integrates with manufacturer dealer management systems and DMS platforms like CDK Global and Reynolds & Reynolds. |
-| Finance and Insurance Partners | Integration with lenders and F&I product providers through Asbury's F&I technology platform across all dealership locations. |
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-## Maintainers
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-**FN:** Kin Lane
+## How this profile is made
 
-**Email:** kin@apievangelist.com
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Asbury Automotive Group: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/asbury-automotive/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
