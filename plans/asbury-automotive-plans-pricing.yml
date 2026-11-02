@@ -1,0 +1,63 @@
+specification: API Commons Plans
+specificationVersion: '0.1'
+schema: https://raw.githubusercontent.com/api-evangelist/interface-research/main/schema/api-commons.yml#/$defs/Plans
+provider: Asbury Automotive Group
+providerId: asbury-automotive
+created: '2026-05-04'
+# Provenance stamped 2026-08-11: this artifact was written by the API Evangelist
+# bulk sweep dated 2026-05-04, not harvested from the provider. See roadmap#35.
+method: generated
+modified: '2026-05-05'
+reconciled: false
+tags:
+  - Automotive
+  - Dealerships
+  - Retail
+  - Vehicles
+description: Asbury Automotive Group is a publicly-traded U.S. automotive retailer (~200 dealerships).
+  It does not publish public consumer-facing APIs or developer-tier pricing. Any digital integrations
+  (DMS exchange, OEM feeds, finance/insurance) are operated through dealer-management partners (e.g.
+  CDK, Reynolds & Reynolds, Tekion) under existing dealer agreements rather than as a public API offering.
+sources:
+  - https://www.asburyauto.com/
+notes: No public developer program or API pricing. This artifact is a placeholder so consumers can
+  discover Asbury and link to the parent dealer/OEM systems they would actually integrate with.
+plans:
+  - id: asbury-automotive-no-public-api
+    name: No Public API Program
+    type: enterprise
+    description: Asbury does not offer a public API. Integrations are negotiated bilaterally with the
+      DMS vendor or via OEM dealer programs.
+    entries:
+      - label: API Access
+        name: api_access
+        type: subscription
+        metric: varies
+        limit: -1
+        timeFrame: month
+        geo: US
+        unit: 1
+        price: not publicly priced (contact Asbury / DMS partner)
+        userMultiplied: false
+    elements:
+      - name: No Public Developer Portal
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+    url: https://apievangelist.com
+x-canonical:
+  generated: '2026-11-01'
+  vocabulary: engine/economics/plans-canonical.yml
+  models:
+  - subscription
+  units:
+  - negotiated
+  plans:
+  - name: No Public API Program
+    access: enterprise
+    model: subscription
+    model_how: derived
+    units:
+    - negotiated
+    periods:
+    - month
